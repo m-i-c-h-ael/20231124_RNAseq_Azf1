@@ -1,0 +1,7 @@
+*/*.gz
+*/*.fq
+GCF*
+*/*.bam
+*/*.sam
+yeast_refSeq
+old

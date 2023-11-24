@@ -1,0 +1,2 @@
+60148cf8db8b65d9d469704d06d1c6ff  B_1.fq.gz
+9530cb05b5ef1765bdb5ebdbe3e2aeb6  B_2.fq.gz

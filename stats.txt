@@ -1,0 +1,29 @@
+Read alignment statistics
+
+A
+QC-passed reads:
+43600280
+Alignments:
+42275000
+Properly paired:
+40467134
+
+Transcript assembly statistics
+Genes:
+3527
+Transcripts:
+7642
+
+B
+QC-passed reads:
+43600280
+Alignments:
+42275000
+Properly paired:
+40467134
+
+Transcript assembly statistics
+Genes:
+3758
+Transcripts:
+7665
