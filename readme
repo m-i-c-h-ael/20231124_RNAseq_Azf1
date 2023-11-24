@@ -1,0 +1,5 @@
+This project analyses RNA-seq data (paired-end reads; NovoGene) for analysing the regulation of transcription factor Azf1 by PKA and its effect on gene expression. Project in Capaldi lab, University of Arizona
+
+see section 15.2.1.5. of labbook_Capaldi
+
+Note: GitHub only tracks scripts and results, not raw data or intermediate output files. 
