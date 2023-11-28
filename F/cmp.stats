@@ -3,26 +3,26 @@
 #
 
 #= Summary for dataset: cufflinks/transcripts.gtf :
-#     Query mRNAs :    7732 in    5114 loci  (343 multi-exon transcripts)
-#            (96 multi-transcript loci, ~1.5 transcripts per locus)
+#     Query mRNAs :    7881 in    5136 loci  (342 multi-exon transcripts)
+#            (109 multi-transcript loci, ~1.5 transcripts per locus)
 # Reference mRNAs :    6395 in    6342 loci  (341 multi-exon)
-# Super-loci w/ reference transcripts:     5038
+# Super-loci w/ reference transcripts:     5045
 #--------------------|   Sn   |  Sp   |  fSn |  fSp  
-        Base level: 	100.0	 59.0	  - 	  - 
-        Exon level: 	 99.9	 83.4	 99.9	 83.4
+        Base level: 	100.0	 58.9	  - 	  - 
+        Exon level: 	 99.8	 81.8	 99.8	 81.8
       Intron level: 	 99.7	 99.7	 99.7	 99.7
-Intron chain level: 	100.0	 99.4	100.0	100.0
-  Transcript level: 	 99.6	 82.4	 99.5	 82.3
-       Locus level: 	100.0	 98.7	100.0	 98.7
+Intron chain level: 	100.0	 99.7	100.0	100.0
+  Transcript level: 	 99.5	 80.7	 99.4	 80.6
+       Locus level: 	100.0	 98.4	100.0	 98.4
 
      Matching intron chains:     341
               Matching loci:    6342
 
           Missed exons:       0/6750	(  0.0%)
-           Novel exons:      68/8089	(  0.8%)
+           Novel exons:      84/8236	(  1.0%)
         Missed introns:       1/355	(  0.3%)
          Novel introns:       0/355	(  0.0%)
            Missed loci:       0/6342	(  0.0%)
-            Novel loci:      68/5114	(  1.3%)
+            Novel loci:      84/5136	(  1.6%)
 
- Total union super-loci across all input datasets: 5114 
+ Total union super-loci across all input datasets: 5136 

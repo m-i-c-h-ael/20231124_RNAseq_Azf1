@@ -1,29 +1,15 @@
 Read alignment statistics
 
-A
+E
 QC-passed reads:
-43600280
+46980632
 Alignments:
-42275000
+45281787
 Properly paired:
-40467134
+43123642
 
 Transcript assembly statistics
 Genes:
-3527
+3506
 Transcripts:
-7642
-
-B
-QC-passed reads:
-43600280
-Alignments:
-42275000
-Properly paired:
-40467134
-
-Transcript assembly statistics
-Genes:
-3758
-Transcripts:
-7665
+7637
